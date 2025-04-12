@@ -15,7 +15,7 @@ The dataset used in this project is available in the dataset directory. It inclu
 To get started with the Diamond Price Prediction project, follow these steps: (Create your own virtual environment)
 
 1. Clone the repository to your local machine:
-git clone https://github.com/Rishi2403/Diamond-Price-Prediction.git
+git clone https://github.com/AntimaNakhat/DiamondPricePrediction.git
 
 2. Install the required dependencies by running the following command:
 pip install -r requirements.txt
